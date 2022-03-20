@@ -65,3 +65,6 @@ Port : 2333
 Password : "lvserver"
 Secure : false
 ```
+Host: lava.sudhan.tech
+Port: 1234
+Password: CodingWithSudhan
