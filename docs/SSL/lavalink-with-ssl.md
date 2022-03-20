@@ -30,3 +30,6 @@ Port : 443
 Password : "lavalink"
 Secure : true
 ```
+Host: lava.sudhan.tech
+Port: 1234
+Password: CodingWithSudhan
